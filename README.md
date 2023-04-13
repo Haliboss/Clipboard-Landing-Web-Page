@@ -51,3 +51,5 @@ As mentioned above, there are many ways to host your project for free. Our recom
 - [Netlify](https://www.netlify.com/)
 
 **Have fun building!** 🚀
+
+# Çok sabırlısınız maşallah
