@@ -52,4 +52,10 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 **Have fun building!** 🚀
 
+
+
+## Burasi degisebilir
+## Hocam tekrar amacla yaziyorum
+=======
 ## Derste isimize yaradi.
+
